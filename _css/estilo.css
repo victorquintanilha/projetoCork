@@ -117,7 +117,7 @@ aside#lateral {
 
 figure.foto {
     position: relative;
-    border: 5px solid white;
+    border: 5px solid #dbf0f0;
     box-shadow: 1px 1px 10px rgba(0,0,0,.4);
 }
 

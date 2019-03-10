@@ -27,7 +27,7 @@ input:hover, textarea:hover {
     background-color: #dddddd;
 }
 
-input#botao-enviar {
+input#cEnviar {
     margin-left: 10px;
     margin-bottom: 20px;
 }

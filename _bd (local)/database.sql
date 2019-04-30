@@ -1,4 +1,6 @@
-USE localdb;
+CREATE DATABASE projetoCork;
+
+USE projetoCork;
 
 CREATE TABLE IF NOT EXISTS mensagens (
     id int NOT NULL PRIMARY KEY AUTO_INCREMENT,

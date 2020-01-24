@@ -1,6 +1,6 @@
 # ProjetoCork!
 Projeto de site da cafeteria fictícia "Cork - Coffe &amp; Space Rentals".
 
-Link para o site: https://corkcoffe.azurewebsites.net/
+Link para o site: ...
 
-![Pagina Inicial](https://user-images.githubusercontent.com/43802641/54078255-e9bb9d00-42a3-11e9-87cc-bad58b21129b.png)
+![Annotation 2020-01-23 221432](https://user-images.githubusercontent.com/43802641/73037441-d5d24880-3e2d-11ea-9e7d-e681382c22a3.png)

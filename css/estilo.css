@@ -1,7 +1,7 @@
 ﻿@charset "UTF-8";
 @font-face {
     font-family: 'FonteLogo';
-    src: url("../_fonts/valkenregular.ttf");
+    src: url("../fonts/valkenregular.ttf");
 }
 
 /* Formatação do "corpo" do site e cabeçalho */
@@ -14,7 +14,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #86cccc;
     color: black;
-    background-image: url("../_imagens/fundo.jpg");
+    background-image: url("../imagens/fundo.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
